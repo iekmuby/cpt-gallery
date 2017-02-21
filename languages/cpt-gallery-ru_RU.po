@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CPT gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-20 16:47+0000\n"
+"PO-Revision-Date: 2017-02-20 16:51+0000\n"
+"Last-Translator: iekmuby <shulgin@List.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: cptgallery.php:27
+msgid "2 images"
+msgstr "2 картинки"
+
+#: cptgallery.php:28
+msgid "3 images"
+msgstr "3 картинки"
+
+#: cptgallery.php:29
+msgid "4 images"
+msgstr "4 картинки"
+
+#: cptgallery.php:30
+msgid "5 images"
+msgstr "5 картинок"
+
+#: cptgallery.php:31
+msgid "6 images"
+msgstr "6 картинок"
+
+#: cptgallery.php:47 cptgallery.php:48
+msgid "Edit Picture"
+msgstr "Редактировать картинку"
+
+#: cptgallery.php:49
+msgid "New Picture"
+msgstr "Новая картинка"
+
+#: cptgallery.php:50 cptgallery.php:51
+msgid "View Picture"
+msgstr "Просмотреть картинку"
+
+#: cptgallery.php:52
+msgid "Search Pictures"
+msgstr "Искать картинки"
+
+#: cptgallery.php:53
+msgid "No Pictures found"
+msgstr "Ни одной картинки не найдено"
+
+#: cptgallery.php:54
+msgid "No Pictures found in Trash"
+msgstr "Ни одной картинки не найдено в корзине"
+
+#: cptgallery.php:55
+msgid "Parent Picture"
+msgstr "Родительская картинка"
+
+#: cptgallery.php:113
+msgid "Name"
+msgstr "Название"
+
+#: cptgallery.php:114
+msgid "Slug"
+msgstr ""
+
+#: cptgallery.php:115
+msgid "Posts"
+msgstr "Записи"
+
+#: cptgallery.php:116
+msgid "Shortcode"
+msgstr "Код вставки"
+
+#: cptgallery.php:175
+msgid "Number of images per row"
+msgstr "Количество картинок в строке"
+
+#: cptgallery.php:181
+msgid "Choose a number of images in row"
+msgstr "Выберите количество картинок в строке"
+
+#: cptgallery.php:196
+msgid "Number of images in row"
+msgstr "Количество картинок в строке"
+
+#: cptgallery.php:204
+msgid "Enter a value for this field"
+msgstr "Введите значение поля"
+
+#. Description of the plugin
+msgid "Custom post type based simple gallery"
+msgstr "Простая галерея, основанная на Custom Post Types"
+
+#. Author of the plugin
+msgid "Locker"
+msgstr ""
+
+#. Name of the plugin
+#: cptgallery.php:44
+msgid "CPT gallery"
+msgstr "Галерея"
+
+#: cptgallery.php:45 cptgallery.php:46
+msgid "Add New Picture"
+msgstr "Добавить картинку"
+
+#: cptgallery.php:79 cptgallery.php:80
+msgid "Galleries"
+msgstr "Галереи"

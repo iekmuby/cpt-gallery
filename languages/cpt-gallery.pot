@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-20 16:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: cptgallery.php:27
+msgid "2 images"
+msgstr ""
+
+#: cptgallery.php:28
+msgid "3 images"
+msgstr ""
+
+#: cptgallery.php:29
+msgid "4 images"
+msgstr ""
+
+#: cptgallery.php:30
+msgid "5 images"
+msgstr ""
+
+#: cptgallery.php:31
+msgid "6 images"
+msgstr ""
+
+#. Name of the plugin
+#: cptgallery.php:44
+msgid "CPT gallery"
+msgstr ""
+
+#: cptgallery.php:45 cptgallery.php:46
+msgid "Add New Picture"
+msgstr ""
+
+#: cptgallery.php:47 cptgallery.php:48
+msgid "Edit Picture"
+msgstr ""
+
+#: cptgallery.php:49
+msgid "New Picture"
+msgstr ""
+
+#: cptgallery.php:50 cptgallery.php:51
+msgid "View Picture"
+msgstr ""
+
+#: cptgallery.php:52
+msgid "Search Pictures"
+msgstr ""
+
+#: cptgallery.php:53
+msgid "No Pictures found"
+msgstr ""
+
+#: cptgallery.php:54
+msgid "No Pictures found in Trash"
+msgstr ""
+
+#: cptgallery.php:55
+msgid "Parent Picture"
+msgstr ""
+
+#: cptgallery.php:79 cptgallery.php:80
+msgid "Galleries"
+msgstr ""
+
+#: cptgallery.php:116
+msgid "Shortcode"
+msgstr ""
+
+#: cptgallery.php:175
+msgid "Number of images per row"
+msgstr ""
+
+#: cptgallery.php:181
+msgid "Choose a number of images in row"
+msgstr ""
+
+#: cptgallery.php:196
+msgid "Number of images in row"
+msgstr ""
+
+#: cptgallery.php:204
+msgid "Enter a value for this field"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom post type based simple gallery"
+msgstr ""
+
+#. Author of the plugin
+msgid "Locker"
+msgstr ""
